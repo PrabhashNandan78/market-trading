@@ -45,8 +45,8 @@ The dashboard serves as both a learning platform and a practical tool, helping m
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/market-trading-dashboard.git
-cd market-trading-dashboard
+git clone https://github.com/PrabhashNandan78/market-trading.git
+cd market-trading
 
 # Install the package
 pip install -e .
